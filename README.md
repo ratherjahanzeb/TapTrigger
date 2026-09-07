@@ -43,3 +43,6 @@ Built with **Kotlin** and **Jetpack Compose**, Kinetix features Material Design 
 ## 📄 License
 
 Distributed under the MIT License.
+
+
+## App will be published soon
